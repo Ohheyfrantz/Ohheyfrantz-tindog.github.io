@@ -1,2 +1,2 @@
 # tindog-mockup
-First responsive site made through bootcamp
+First responsive site made in coding bootcamp
